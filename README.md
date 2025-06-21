@@ -5,7 +5,7 @@
 - 📢 PR Co-Head at GFG TMSL Student Chapter 
 - 💻 Passionate about **Web Dev**, **Machine Learning**, **Data Analysis**  
 - 🧠 Learning: Big Data, Data Analysis, Moto of Life   
-- 📖 Reader | 🎧 Music Lover  
+- 📖 Read | 🎧 Music 
 ---
 
 ### 🧠 Core Skills
