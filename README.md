@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 👋 Hi there, I'm Suhani Kundu
 
 🎓 3rd Year CSE (Data Science) student at Techno Main Salt Lake  
