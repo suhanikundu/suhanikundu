@@ -40,8 +40,7 @@
 
 ### 💬 Let's Connect
 🔗 [LinkedIn](https://www.linkedin.com/in/suhanikundu)  
-🌐 [Portfolio (coming soon)](https://suhanikundu.github.io)  
-📧 suhanikundu@email.com (replace with actual email)
+🌐 [Email] (suhani.kundu2406@gmail.com)
 
 ---
 
