@@ -4,9 +4,9 @@
 - 🎓 3rd Year CSE (Data Science) student at Techno Main Salt Lake  
 - 💻 Passionate about **Web Dev**, **Machine Learning**, **Data Analysis**  
 - 📊 Data Analysis | 🎨 Reader | 🎧 Music Lover  
-- 🧠 Learning: Big Data, Data Analysis, Moto of Life
-- 🎯 Goals: Build real-world impactful projects and ace hackathons
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suhanikundu)
+- 🧠 Learning: Big Data, Data Analysis, Moto of Life  
+- 🎯 Goals: Build real-world impactful projects and ace hackathons  
+- 📢 PR Co-Head at GFG TMSL Student Chapter  
 
 ---
 
@@ -31,10 +31,10 @@
 
 ---
 
-### 🧩 Other Interests
-🎵 Ukulele Player 
+### 🧩 Other Interests  
+🎵 Ukulele Player  
 📖 Fan of Romcom & Thriller novels (yes, Murakami too!)  
-🖌️ Occasional Canva Designer & Club Organizer
+🖌️ Occasional Canva Designer & Club Organizer  
 
 ---
 
