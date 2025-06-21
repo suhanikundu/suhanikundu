@@ -32,8 +32,7 @@
 ---
 
 ### 🧩 Other Interests
-🎵 Ukulele Player 
-
+🎵 Ukulele Player
 📖 Fan of Romcom & Thriller novels (yes, Murakami too!)  
 🖌️ Occasional Canva Designer & Club Organizer
 
