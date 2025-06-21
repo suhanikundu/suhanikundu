@@ -1,10 +1,5 @@
-```markdown
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Suhani+Kundu!;CSE+(Data+Science)+@+TMSL;Web+Dev+%7C+ML+%7C+Data+Analysis+Lover+%F0%9F%9A%80"/>
-</h1>
-
----
 ## 👋 Hi there, I'm Suhani Kundu
+
 ### 🚀 About Me
 - 🎓 3rd Year CSE (Data Science) student at Techno Main Salt Lake  
 - 💻 Passionate about **Web Dev**, **Machine Learning**, **Data Analysis**  
