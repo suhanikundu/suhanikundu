@@ -32,15 +32,14 @@
 ---
 
 ### 🧩 Other Interests
-🎵 Ukulele Player & Playlist Curator  
+🎵 Ukulele Player 
 📖 Fan of Romcom & Thriller novels (yes, Murakami too!)  
 🖌️ Occasional Canva Designer & Club Organizer
 
 ---
 
 ### 💬 Let's Connect
-🔗 [LinkedIn](https://www.linkedin.com/in/suhanikundu)  
-🌐 suhanikundu.2004@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/suhanikundu)
 
 ---
 
