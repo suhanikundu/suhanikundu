@@ -41,10 +41,10 @@
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact  
 > I love solving real-life problems using code — and I believe coffee makes debugging 2x faster ☕✨
 
 ---
 
-_“Code, create, connect — that’s my trio!”_ 💫
-```
+_💗 Dreamy • Driven • Delicate_
+
