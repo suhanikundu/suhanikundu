@@ -4,7 +4,6 @@
 - 🎓 3rd Year CSE (Data Science) student at Techno Main Salt Lake  
 - 💻 Passionate about **Web Dev**, **Machine Learning**, **Data Analysis**  
 - 📊 Data Analysis | 🎨 Reader | 🎧 Music Lover  
-- 🌱 Currently working on: **Customer Segmentation Analysis using ML**
 - 🧠 Learning: Big Data, Data Analysis, Moto of Life
 - 🎯 Goals: Build real-world impactful projects and ace hackathons
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suhanikundu)
