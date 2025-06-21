@@ -1,13 +1,11 @@
 ## 👋 Hi there, I'm Suhani Kundu
 
 ### 🚀 About Me
-- 🎓 3rd Year CSE (Data Science) student at Techno Main Salt Lake  
+- 🎓 3rd Year CSE (Data Science) student at Techno Main Salt Lake
+- 📢 PR Co-Head at GFG TMSL Student Chapter 
 - 💻 Passionate about **Web Dev**, **Machine Learning**, **Data Analysis**  
-- 📊 Data Analysis | 🎨 Reader | 🎧 Music Lover  
-- 🧠 Learning: Big Data, Data Analysis, Moto of Life  
-- 🎯 Goals: Build real-world impactful projects and ace hackathons  
-- 📢 PR Co-Head at GFG TMSL Student Chapter  
-
+- 🧠 Learning: Big Data, Data Analysis, Moto of Life   
+- 📖 Reader | 🎧 Music Lover  
 ---
 
 ### 🧠 Core Skills
