@@ -1,3 +1,7 @@
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=F7C4ED&center=true&vCenter=true&width=500&lines=👋+Hi+there%2C+I'm+Suhani+Kundu" alt="Typing SVG" />
+</h2>
+
 ## 👋 Hi there, I'm Suhani Kundu
 
 ### 🚀 About Me
