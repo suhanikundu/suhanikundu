@@ -77,8 +77,9 @@
 <!-- Fun Fact -->
 <h3 align="center">⚡️ Fun Fact</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Coffee+makes+my+debugging+2x+faster+%E2%98%95%EF%B8%8F;I+love+solving+real+problems+with+tech!" alt="Fun Fact Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Every+bug+deserves+a+playlist+%F0%9F%8C%B8" alt="Fun Fact Typing SVG">
 </p>
+
 
 ---
 
