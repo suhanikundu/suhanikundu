@@ -19,7 +19,8 @@
 ---
 ### 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=suhanikundu&theme=darkhub&title=Stars,Commits,PullRequest,Issues,Repositories&no-frame=true&margin-w=10&column=3)](https://github.com/suhanikundu)
+![Suhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhanikundu&show_icons=true&hide_title=true&hide_rank=true&theme=vision-friendly-dark&border_radius=15&icon_color=FFD700&title_color=FFD700&text_color=ffffff)
+
 
 
 ---
