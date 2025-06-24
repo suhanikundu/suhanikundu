@@ -28,12 +28,14 @@
 <!-- Core Skills -->
 <h3 align="center">🧠 Core Skills</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img src="https://img.shields.io/badge/Data_Analysis-8E44AD?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"> <!-- blue -->
+  <img src="https://img.shields.io/badge/Machine_Learning-F9A825?style=for-the-badge&logo=tensorflow&logoColor=white"> <!-- yellow -->
+  <img src="https://img.shields.io/badge/Data_Analysis-9B59B6?style=for-the-badge&logo=pandas&logoColor=white"> <!-- purple -->
+  <img src="https://img.shields.io/badge/Data_Visualization-20B2AA?style=for-the-badge&logo=plotly&logoColor=white"> <!-- teal -->
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- orange -->
+  <img src="https://img.shields.io/badge/CSS-2E8B57?style=for-the-badge&logo=css3&logoColor=white"> <!-- green -->
 </p>
+
 
 ---
 
