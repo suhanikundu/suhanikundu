@@ -4,10 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=F7C4ED&center=true&vCenter=true&width=550&lines=👩‍💻+Suhani+Kundu+here!;PR+Co-Head+at+GFG+TMSL;CSE+(DS)+3rd+Year+Student;Web+Dev+%7C+ML+%7C+Data+Analysis+Enthusiast" alt="Typing SVG" />
-</div>
-
 
 
 ### 🚀 About Me
