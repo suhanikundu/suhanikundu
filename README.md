@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=F7C4ED&center=true&vCenter=true&width=550&lines=👩‍💻+Suhani+Kundu+here!;PR+Co-Head+at+GFG+TMSL;CSE+(DS)+3rd+Year+Student;Web+Dev+%7C+ML+%7C+Data+Analysis+Enthusiast" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhanikundu&style=for-the-badge&color=ff69b4&label=Profile+Views" alt="Profile Views" />
-</p>
 
 
 ### 🚀 About Me
