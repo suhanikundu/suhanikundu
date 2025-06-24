@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&lines=Data+Science+Explorer+%F0%9F%8C%8C;Web+Developer+with+a+Designer's+Eye+%F0%9F%93%BB;AI+Learner+on+a+Mission+to+Build+Cool+Things+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&lines=Data+Science+Explorer+%F0%9F%8C%8C;On+a+Mission+to+Build+Cool+Things+%F0%9F%9A%80" alt="Typing SVG">
 </p>
 
 ---
@@ -38,13 +38,11 @@
 
 ---
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhanikundu&show_icons=true&theme=tokyonight&hide_border=true">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=suhanikundu&theme=tokyonight&hide_border=true">
-</p>
+### 📊 GitHub Stats
+
+![Suhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhanikundu&show_icons=true&hide_title=true&hide_rank=true&theme=vision-friendly-dark&border_radius=15&icon_color=FFD700&title_color=FFD700&text_color=ffffff)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=suhanikundu&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
