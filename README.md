@@ -1,8 +1,17 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=F7C4ED&center=true&vCenter=true&width=500&lines=👋+Hi+there%2C+I'm+Suhani+Kundu" alt="👋 Hi there, I'm Suhani Kundu" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <span>Hi there, I'm Suhani Kundu</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-## 👋 Hi there, I'm Suhani Kundu
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=F7C4ED&center=true&vCenter=true&width=550&lines=👩‍💻+Suhani+Kundu+here!;PR+Co-Head+at+GFG+TMSL;CSE+(DS)+3rd+Year+Student;Web+Dev+%7C+ML+%7C+Data+Analysis+Enthusiast" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suhanikundu&style=for-the-badge&color=ff69b4&label=Profile+Views" alt="Profile Views" />
+</p>
+
 
 ### 🚀 About Me
 - 🎓 3rd Year CSE (Data Science) student at Techno Main Salt Lake
