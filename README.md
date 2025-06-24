@@ -17,6 +17,15 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ---
+<h2>📊 Statistics :</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=suhanikundu&show_icons=true&theme=yellow&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" alt="Suhani's GitHub Stats"/>
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub Stats
 ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanikundu&show_icons=true&theme=radical)
