@@ -1,17 +1,22 @@
-<h2 align="center">
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <span>Hola todos, I’m Suhani Kundu</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+</h1>
 
+<br/>
 
+<div align="center">
 
-### 🚀 About Me
-- 🎓 3rd Year CSE (Data Science) student at Techno Main Salt Lake
-- 📢 PR Co-Head at GFG TMSL Student Chapter 
-- 💻 Passionate about **Web Dev**, **Machine Learning**, **Data Analysis**  
-- 🧠 Learning: Big Data, Data Analysis, Moto of Life   
-- 📖 Read | 🎧 Music 
+### 🚀 About Me  
+🎓 3rd Year CSE (Data Science) student at Techno Main Salt Lake  
+📢 PR Co-Head at GFG TMSL Student Chapter  
+💻 Passionate about Web Dev, Machine Learning, Data Analysis  
+🧠 Learning: Big Data, Data Analysis, Moto of Life  
+📖 Read | 🎧 Music  
+
+</div>
+
 ---
 
 ### 🧠 Core Skills
