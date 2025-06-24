@@ -27,9 +27,6 @@
   </tr>
 </table>
 
-### 📊 GitHub Stats
-![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanikundu&show_icons=true&theme=radical)
-
 ---
 
 ### 🎯 Current Projects
