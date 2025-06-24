@@ -18,7 +18,7 @@
 <p align="center">
   🎓 3rd Year CSE (Data Science) student at Techno Main Salt Lake<br>
   📣 PR Co-Head at GFG TMSL Student Chapter<br>
-  💻 Passionate about Web Dev, Machine Learning, Data Analysis<br>
+  💻 Passionate about Machine Learning, Data Analysis<br>
   🧠 Learning: Big Data, Data Analysis, Moto of Life<br>
   📖 Read | 🎵 Music Lover
 </p>
@@ -29,12 +29,15 @@
 <h3 align="center">🧠 Core Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"> <!-- blue -->
+ <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <!-- dark blue -->
+    <img src="https://img.shields.io/badge/DSA-FF5733?style=for-the-badge&logo=leetcode&logoColor=white"> <!-- coral -->
   <img src="https://img.shields.io/badge/Machine_Learning-F9A825?style=for-the-badge&logo=tensorflow&logoColor=white"> <!-- yellow -->
   <img src="https://img.shields.io/badge/Data_Analysis-9B59B6?style=for-the-badge&logo=pandas&logoColor=white"> <!-- purple -->
   <img src="https://img.shields.io/badge/Data_Visualization-20B2AA?style=for-the-badge&logo=plotly&logoColor=white"> <!-- teal -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- orange -->
   <img src="https://img.shields.io/badge/CSS-2E8B57?style=for-the-badge&logo=css3&logoColor=white"> <!-- green -->
 </p>
+
 
 
 ---
