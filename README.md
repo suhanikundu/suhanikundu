@@ -1,8 +1,9 @@
-<h1 align="center">
+<h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <span>Hola todos, I’m Suhani Kundu</span>
+  <span style="color:#00CFFF;">Hola todos, I’m Suhani Kundu</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+</h2>
+
 
 <br/>
 
