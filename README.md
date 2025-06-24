@@ -53,8 +53,8 @@
 <!-- Current Projects -->
 <h3 align="center">🌟 Current Projects</h3>
 <ul>
-  <li>🤖 <strong>EduConnect</strong>: AI-powered mentorship & personalized learning path</li>
   <li>💼 <strong>Customer Segmentation Analysis</strong> using ML (Clustering & Visualization)</li>
+  <li>🤖 <strong>EduConnect</strong>: AI-powered mentorship & personalized learning path</li>
 </ul>
 
 ---
