@@ -46,7 +46,7 @@
 
 ### 📊 GitHub Stats
 
-![Suhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhanikundu&show_icons=true&hide_title=true&hide_rank=true&theme=vision-friendly-dark&border_radius=15&icon_color=FFD700&title_color=FFD700&text_color=ffffff&cache_seconds=1800&cache_bust=1)
+![Suhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhanikundu&show_icons=true&hide_title=true&hide_rank=true&theme=vision-friendly-dark&border_radius=15&icon_color=FFD700&title_color=FFD700&text_color=ffffff&cache_bust=123)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=suhanikundu&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
