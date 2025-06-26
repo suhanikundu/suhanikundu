@@ -50,7 +50,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=suhanikundu&theme=dark&hide_border=true&cache_bust=1729587425)](https://git.io/streak-stats)
 
-
 <!-- Current Projects -->
 <h3 align="center">🌟 Current Projects</h3>
 <ul>
