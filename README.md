@@ -50,8 +50,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=suhanikundu&theme=dark&hide_border=true&cache_bust=1729587425)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhanikundu&layout=compact&theme=vision-friendly-dark&cache_bust=1729587425)
-
 
 <!-- Current Projects -->
 <h3 align="center">🌟 Current Projects</h3>
