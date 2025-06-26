@@ -46,9 +46,11 @@
 
 ### 📊 GitHub Stats
 
-![Suhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhanikundu&show_icons=true&hide_title=true&hide_rank=true&theme=vision-friendly-dark&border_radius=15&icon_color=FFD700&title_color=FFD700&text_color=ffffff&cache_bust=123)
+![Suhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhanikundu&show_icons=true&hide_title=true&hide_rank=true&theme=vision-friendly-dark&border_radius=15&icon_color=FFD700&title_color=FFD700&text_color=ffffff&cache_bust=1729587425)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=suhanikundu&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=suhanikundu&theme=dark&hide_border=true&cache_bust=1729587425)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhanikundu&layout=compact&theme=vision-friendly-dark&cache_bust=1729587425)
 
 
 <!-- Current Projects -->
