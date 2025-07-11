@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Machine_Learning-F9A825?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Data_Analysis-9B59B6?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Data_Visualization-20B2AA?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <!-- Power BI -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-2E8B57?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
