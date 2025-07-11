@@ -52,7 +52,7 @@
 <!-- Current Projects -->
 <h3 align="center">🌟 Current Projects</h3>
 <ul>
-  <li>💼 <strong>Customer Segmentation Analysis</strong> using ML (Clustering & Visualization)</li>
+  <li>💼 <strong>Customer Segmentation Analysis</strong> using ML (Clustering & Visualization) and Power BI</li>
   <li>🤖 <strong>EduConnect</strong>: AI-powered mentorship & personalized learning path</li>
 </ul>
 
