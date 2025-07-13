@@ -71,17 +71,14 @@
 <!-- Let's Connect -->
 <h3 align="center">💬 Let's Connect</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/suhanikundu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:suhanikundu@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<!-- 🌐 Portfolio -->
-<h3 align="center">🌈 Personal Portfolio</h3>
-<p align="center">
+  <a href="https://www.linkedin.com/in/suhanikundu">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://developeroperation.shop" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-DeveloperPortfolio-%23D8B4FE?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-%23F9A8D4?style=for-the-badge&logo=star&logoColor=white" />
+  </a>
+  <a href="mailto:suhani.kundu2406@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
