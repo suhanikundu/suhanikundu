@@ -74,7 +74,7 @@
   <a href="https://www.linkedin.com/in/suhanikundu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://developeroperation.shop" target="_blank">
+  <a href="https://developeroperation.shop">
     <img src="https://img.shields.io/badge/Portfolio-%23F9A8D4?style=for-the-badge&logo=star&logoColor=white" />
   </a>
   <a href="mailto:suhani.kundu2406@gmail.com">
