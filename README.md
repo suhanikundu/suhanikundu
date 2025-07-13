@@ -77,13 +77,17 @@
 
 ---
 
-<!-- 🌐 Portfolio -->
-<h3 align="center">🌐 Personal Portfolio</h3>
+<!-- 🌌 Step Into My World -->
+<h3 align="center">✨ Step Into My World</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=FCA6D1&center=true&vCenter=true&width=435&lines=curious+mind+at+work...;click+to+enter+my+universe+🌙" alt="Typing SVG" />
+</p>
 <p align="center">
   <a href="https://developeroperation.shop" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-DeveloperPortfolio-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-developeroperation.shop-%23fca6d1?style=for-the-badge&logo=star&logoColor=white">
   </a>
 </p>
+
 
 ---
 
