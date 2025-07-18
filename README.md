@@ -16,7 +16,7 @@
 <!-- About Me Section -->
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-  🎓 3rd Year CSE (Data Science) student at Techno Main Salt Lake<br>
+  🎓 Final Year CSE (Data Science) student at Techno Main Salt Lake<br>
   📣 PR Co-Head at GFG TMSL Student Chapter<br>
   💻 Passionate about Machine Learning, Data Analysis<br>
   🧠 Learning: Big Data, Data Analysis, Moto of Life<br>
