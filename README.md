@@ -7,6 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&lines=Data+Science+Explorer+%F0%9F%8C%8C;On+a+Mission+to+Build+Cool+Things+%F0%9F%9A%80" alt="Typing SVG">
 </p>
