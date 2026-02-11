@@ -50,14 +50,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=suhanikundu&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
 
 
-<!-- Current Projects -->
-<h3 align="center">🌟 Current Projects</h3>
-<ul>
-  <li>💼 <strong>Customer Segmentation Analysis</strong> using ML (Clustering & Visualization) and Power BI</li>
-  <li>🤖 <strong>EduConnect</strong>: AI-powered mentorship & personalized learning path</li>
-</ul>
-
----
 
 <!-- Interests -->
 <h3 align="center">🧩 Other Interests</h3>
