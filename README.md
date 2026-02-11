@@ -48,7 +48,7 @@
 
 ![Suhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhanikundu&show_icons=true&hide_title=true&hide_rank=true&theme=vision-friendly-dark&border_radius=15&icon_color=FFD700&title_color=FFD700&text_color=ffffff&cache_seconds=43200)
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=suhanikundu&theme=dark&hide_border=true&cache_bust=12345)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=suhanikundu&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <!-- Current Projects -->
